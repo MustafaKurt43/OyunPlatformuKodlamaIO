@@ -1,0 +1,7 @@
+C:\Users\musta\source\repos\KodlamaIOGames\KodlamaIOGames\bin\Debug\KodlamaIOGames.exe.config
+C:\Users\musta\source\repos\KodlamaIOGames\KodlamaIOGames\bin\Debug\KodlamaIOGames.exe
+C:\Users\musta\source\repos\KodlamaIOGames\KodlamaIOGames\bin\Debug\KodlamaIOGames.pdb
+C:\Users\musta\source\repos\KodlamaIOGames\KodlamaIOGames\obj\Debug\KodlamaIOGames.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\KodlamaIOGames\KodlamaIOGames\obj\Debug\KodlamaIOGames.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\KodlamaIOGames\KodlamaIOGames\obj\Debug\KodlamaIOGames.exe
+C:\Users\musta\source\repos\KodlamaIOGames\KodlamaIOGames\obj\Debug\KodlamaIOGames.pdb
